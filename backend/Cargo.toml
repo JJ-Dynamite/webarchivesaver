@@ -1,11 +1,11 @@
 [package]
-name = "faang-webarchive-saver-backend"
+name = "webarchivesaver-backend"
 version = "0.1.0"
 edition = "2021"
 description = "Permanently save any webpage - Backend API"
 authors = ["JJ-Dynamite"]
 license = "MIT"
-repository = "https://github.com/JJ-Dynamite/faang-webarchive-saver"
+repository = "https://github.com/JJ-Dynamite/webarchivesaver"
 
 [dependencies]
 axum = "0.7"

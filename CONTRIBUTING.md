@@ -1,4 +1,4 @@
-# Contributing to faang-webarchive-saver
+# Contributing to webarchivesaver
 
 Thank you for your interest in contributing!
 
